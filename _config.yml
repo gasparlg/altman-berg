@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: altmanbergtest4
+title: Altman & Berg
 description: "This blog focuses on the research aspects of tech industries by sharing informative articles and interviews with industry leaders."
 baseurl: "/"
-url: "http://gasparlg.github.io/altmanbergtest4"
+url: "http://gasparlg.github.io/altman-berg"
 tagline: "Wine Market Insight"
 
 
