@@ -29,7 +29,7 @@ Soon after, Pouget founded the first agricultural School of Argentina in Mendoza
 
 This industry momentum was further strengthened and boosted by the inauguration, in 1884, of the railroad connecting Mendoza and San Juan with the nation’s capital city Buenos Aires. The Cuyo region then took on the role of producers of wine to supply the domestic market and, very marginally, the international one, through the port of Buenos Aires.
 
-<span class="imgleft" itemprop="image">
+<span class="imgleft">
 ![alt text](images/giol-b.jpg "Francis Mallmann")
 </span>
 
@@ -37,7 +37,7 @@ In the early twentieth century, the industry grew rapidly. During the celebratio
 
 After the First World War, in 1919, Argentine wines acquired international notoriety for its increasing quality and the excellent results of the European vine stocks in those lands and climates. However, since its beginnings, Argentina never exported as its main objective, but rather the industry grew based on the consumption of the domestic market. During this period, Argentine producers leaned to export only to sell their occasional surpluses in production.
 
-<span class="imgleft" itemprop="image">
+<span class="imgleft">
 ![alt text](images/trole.jpg "Francis Mallmann")
 </span>
 
@@ -47,7 +47,7 @@ An anecdote of the exports in the 1980’s is the first shipment of Argentine wi
 
 Since the 1970’s and 1980’s, the Argentine wine industry had to endure recurring mismatches between production and consumption. This situation was intensified over time with a steep decrease in wine consumption until 2010.
 
-<span class="imgcenterwide" itemprop="image"> 
+<span class="imgcenterwide"> 
 ![alt text](images/consumo.png "Francis Mallmann") 
 </span>
 
@@ -65,9 +65,9 @@ The objectives of the industry for the year 2020 are to increase the export reve
 
 <div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
 
-### <span intemprop="author">Gaspar Lobato Grinberg</span>
+### Gaspar Lobato Grinberg
 
-<span class="imgpp" itemprop="image"> 
+<span class="imgpp"> 
 ![alt text](images/gaspar_web_19.png "Francis Mallmann") 
 </span>
 
