@@ -2,12 +2,13 @@
 layout:  default  
 ---
 <div id="wrapper" class="mainpage">
+<div itemscope itemtype="http://schema.org/CreativeWork">
     <!-- Header --> 
         <header id="header" class="alt">
             <a href="{{site.baseurl}}" class="logo"><strong></strong><span>Altman <span id="amp">&amp;</span> Berg</span></a>
             <nav class="flex-container">
                 <a href="http://altmanberg.com" class="logo" id="lang">English</a>
-                <a href="http://es.frontmesh.com" class="logo" id="lang">Español</a>
+                <a href="http://es.altmanberg.com" class="logo" id="lang">Español</a>
                 <a href="#menu">&nbsp;Menu</a>
             </nav>
         </header>
@@ -18,8 +19,8 @@ layout:  default
             <li><a href="{{site.baseurl}}columnists" class="button special">Columnists</a></li>
             <li><a href="{{site.baseurl}}tags" class="button special">Archive</a></li>
             <li><a href="#footer" class="button special fit">Contact</a></li>
-            <li><a href="http://frontmesh.com" class="button special">English</a></li>
-            <li><a href="http://es.frontmesh.com" class="button special">Español</a></li>
+            <li><a href="http://altmanberg.com" class="button special">English</a></li>
+            <li><a href="http://es.altmanberg.com" class="button special">Español</a></li>
         </ul>
         <!--
         <ul class="actions vertical">
@@ -44,7 +45,7 @@ layout:  default
             <div class="posts">
                 {% for post in paginator.posts %}
                     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
-                        <a href="{{post.url}}" class="imagep"><img src="{{site.baseurl}}{{post.img-s}}"></a>
+                        <a href="{{post.url}}" class="imagep"><img src="{{site.baseurl}}{{post.img-s}}" itemprop="image"></a>
                         <header>
                             <h2><a href="{{post.url}}" rel="bookmark" title="Permanent Link to {{site.baseurl}}{{post.url}}">
                                 {{post.title}}</a></h2>
@@ -69,14 +70,14 @@ layout:  default
                     <ul class="pagination">   
                     {% if paginator.previous_page %}
                     {% if paginator.previous_page == 1 %}
-                    <li><a href="{{site.baseurl}}" class="previous">Previous Articles</a></li>
+                    <li><a href="{{site.baseurl}}" class="previous">Next Articles</a></li>
                     {% else %}
-                    <li><a href="{{site.baseurl}}blog/page{{paginator.previous_page}}" class="previous">Previous Articles</a></li>
+                    <li><a href="{{site.baseurl}}blog/page{{paginator.previous_page}}" class="previous">Next Articles</a></li>
                     {% endif %}
                     {% endif %}
                     <li><span class="extra">&hellip;</span></li>
                     {% if paginator.next_page %}
-                    <li><a href="{{site.baseurl}}blog/page{{paginator.next_page}}" class="next">Next Articles</a></li>
+                    <li><a href="{{site.baseurl}}blog/page{{paginator.next_page}}" class="next">Previous Articles</a></li>
                     {% endif %}
                     </ul>
                 </footer>
@@ -89,8 +90,8 @@ layout:  default
                 <header class="major">       
                     <h2>Marketing Insight for Wine Professionals</h2>    
                 </header>
-                <p>Altman &amp; Berg’s objective is to publish valuable and actionable information about B2B marketing for the wine industry.</p>
-                <p>Gaspar Lobato Grinberg is the lead columnist for Altman &amp; Berg. During his work career he has executed marketing actions generating business growth in multiple industries. To know more about him you can visit his <a href="http://gasparg.com">personal website.</a></p>
+                <p itemprop="about">Altman &amp; Berg’s objective is to publish valuable and actionable information about B2B marketing for the wine industry.</p>
+                <p><span itemprop="author">Gaspar Lobato Grinberg</span> is the lead columnist for Altman &amp; Berg. During his work career he has executed marketing actions generating business growth in multiple industries. To know more about him you can visit his <a href="http://gasparg.com">personal website.</a></p>
                 <!--
                 <ul class="actions">
                     <li><a href="landing.html" class="button next">Sign Up for the Newsletter</a></li>
@@ -100,6 +101,7 @@ layout:  default
             <img src="{{site.baseurl}}images/gaspar_web_22.png">
     </section>
         </div>
+</div>
 <!-- SIGN UP FORM -->
         <section style="background:rgba(6,66,107,.8);">
             <div class="signup">

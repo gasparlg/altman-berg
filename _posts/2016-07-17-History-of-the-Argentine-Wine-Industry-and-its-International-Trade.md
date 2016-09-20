@@ -11,7 +11,7 @@ minread: 5
 lang: es
 author: By Gaspar Lobato Grinberg
 ---
-
+<div itemscope itemtype="http://schema.org/Article">
 <span class="dropcap">T</span>he history of Argentine wine dates back over 400 years ago when the first specimens of ‘vitis vinifera’ were brought to Peru, Chile and Argentina by the Spanish colonizers. Once in Argentina, the first vineyards were grown in the province of Santiago del Estero, where the first Argentine wines were ever made. However, the optimal climatic and soil conditions of the Andean region caused the wine industry to have a strong and rapid development in the center-west area of the country, the Cuyo region.
 
 Decades later, in the XVII century, the provinces of Cuyo, especially Mendoza and San Juan, had already an important wine production, and became suppliers to new markets such as the regions of Buenos Aires, Paraguay and northern Argentina.
@@ -30,7 +30,7 @@ Soon after, Pouget founded the first agricultural School of Argentina in Mendoza
 
 This industry momentum was further strengthened and boosted by the inauguration, in 1884, of the railroad connecting Mendoza and San Juan with the nation’s capital city Buenos Aires. The Cuyo region then took on the role of producers of wine to supply the domestic market and, very marginally, the international one, through the port of Buenos Aires.
 
-<span class="imgleft">
+<span class="imgleft" itemprop="image">
 ![alt text](images/giol-b.jpg "Francis Mallmann")
 </span>
 
@@ -38,7 +38,7 @@ In the early twentieth century, the industry grew rapidly. During the celebratio
 
 After the First World War, in 1919, Argentine wines acquired international notoriety for its increasing quality and the excellent results of the European vine stocks in those lands and climates. However, since its beginnings, Argentina never exported as its main objective, but rather the industry grew based on the consumption of the domestic market. During this period, Argentine producers leaned to export only to sell their occasional surpluses in production.
 
-<span class="imgleft">
+<span class="imgleft" itemprop="image">
 ![alt text](images/trole.jpg "Francis Mallmann")
 </span>
 
@@ -48,7 +48,7 @@ An anecdote of the exports in the 1980’s is the first shipment of Argentine wi
 
 Since the 1970’s and 1980’s, the Argentine wine industry had to endure recurring mismatches between production and consumption. This situation was intensified over time with a steep decrease in wine consumption until 2010.
 
-<span class="imgcenterwide"> 
+<span class="imgcenterwide" itemprop="image"> 
 ![alt text](images/consumo.png "Francis Mallmann") 
 </span>
 
@@ -66,9 +66,9 @@ The objectives of the industry for the year 2020 are to increase the export reve
 
 <div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
 
-### Gaspar Lobato Grinberg
+### <span intemprop="author">Gaspar Lobato Grinberg</span>
 
-<span class="imgpp"> 
+<span class="imgpp" itemprop="image"> 
 ![alt text](images/gaspar_web_19.png "Francis Mallmann") 
 </span>
 
@@ -81,5 +81,6 @@ The objectives of the industry for the year 2020 are to increase the export reve
 <div class="fb-share-button" data-href="http://frontmesh.com/History-of-the-Argentine-Wine-Industry-and-its-International-Trade" data-description="the most amazing history of argentine wine" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffrontmesh.com%2FHistory-of-the-Argentine-Wine-Industry-and-its-International-Trade&amp;src=sdkpreparse">Share</a></div>
 
 <br>
+</div>
 
 
