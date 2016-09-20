@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 title:  "Francis Mallmann ‘Living on the Edge of Uncertainty’"
 date:   2016-06-30
@@ -46,7 +46,6 @@ Today Francis Mallmann owns four restaurants in Argentina, Uruguay and United St
 </span>
 
 *I focus on the international business side of the wine industry. I spend my time meeting stakeholders from all the different areas of the trade and I write for publications like ARN Diario and Altman & Berg.*
-
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <h3>Share this article:</h3>

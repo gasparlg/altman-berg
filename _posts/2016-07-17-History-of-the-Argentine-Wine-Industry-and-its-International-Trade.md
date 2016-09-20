@@ -1,17 +1,16 @@
 --- 
-layout: post 
+layout: post  
 title:  "History of the Argentine Wine Industry and its International Trade"
 date:   2016-07-17
 tags: [Argentina]
-excerpt: "After such a special time as the bicentennial of the Declaration of Independence of Argentina, it is a great opportunity to remember the well-trodden paths of the Argentine wine industry."
-<!-- img: images/francis33.jpg -->
 img: images/pub.jpg 
 img-s: images/pub-s.jpg 
 minread: 5
 lang: es
+excerpt: "After such a special time as the bicentennial of the Declaration of Independence of Argentina, it is a great opportunity to remember the well-trodden paths of the Argentine wine industry."
 author: By Gaspar Lobato Grinberg
 ---
-<div itemscope itemtype="http://schema.org/Article">
+
 <span class="dropcap">T</span>he history of Argentine wine dates back over 400 years ago when the first specimens of ‘vitis vinifera’ were brought to Peru, Chile and Argentina by the Spanish colonizers. Once in Argentina, the first vineyards were grown in the province of Santiago del Estero, where the first Argentine wines were ever made. However, the optimal climatic and soil conditions of the Andean region caused the wine industry to have a strong and rapid development in the center-west area of the country, the Cuyo region.
 
 Decades later, in the XVII century, the provinces of Cuyo, especially Mendoza and San Juan, had already an important wine production, and became suppliers to new markets such as the regions of Buenos Aires, Paraguay and northern Argentina.
@@ -81,6 +80,5 @@ The objectives of the industry for the year 2020 are to increase the export reve
 <div class="fb-share-button" data-href="http://frontmesh.com/History-of-the-Argentine-Wine-Industry-and-its-International-Trade" data-description="the most amazing history of argentine wine" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffrontmesh.com%2FHistory-of-the-Argentine-Wine-Industry-and-its-International-Trade&amp;src=sdkpreparse">Share</a></div>
 
 <br>
-</div>
 
 
